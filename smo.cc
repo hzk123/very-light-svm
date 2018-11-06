@@ -1,3 +1,6 @@
+//author:hzk123
+//homework for machine learning HW2 in NCKU
+
 #include <bits/stdc++.h>
 #include <stdlib.h>
 #define pb(x) push_back(x)
